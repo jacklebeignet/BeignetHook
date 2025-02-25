@@ -1,4 +1,6 @@
-# BeignetHook
+<h1 align="center">
+  BeignetHook
+</h1>
 <div align="center">
 <a href="https://github.com/jacklebeignet/BeignetHook/releases/"><img src="https://img.shields.io/github/tag/jacklebeignet/BeignetHook?include_prereleases=&sort=semver&color=ff0000" alt="GitHub tag"></a>
 <a href="#license"><img src="https://img.shields.io/badge/License-MIT-ff0000" alt="License"></a>
