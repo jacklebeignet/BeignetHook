@@ -4,7 +4,7 @@ BeignetHook is a Discord Webhhok Manager Tool, that allows you to spam a webhook
 
 ## How To Install
 
-- Install the latest version fron the Releases section.
+- [Install the latest version fron the Releases section](https://github.com/jacklebeignet/BeignetHook/releases/latest).
 - Run this command in your terminal to install the requirements:
 ```
 pip install -r requirements.txt
