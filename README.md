@@ -6,6 +6,7 @@
 
 BeignetHook is a Discord Webhhok Manager Tool, that allows you to spam a webhook and delete it! Perfect if you want to troll scammers.
 </div>
+
 ## How To Install
 
 - [Install the latest version fron the Releases section](https://github.com/jacklebeignet/BeignetHook/releases/latest).
